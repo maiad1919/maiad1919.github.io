@@ -1,0 +1,33 @@
+
+
+
+h1
+{ text-align: left;
+font-family: Lobster, cursive;
+margin:10px;
+
+display: flex;
+justify-content: center;
+border-bottom: 1px solid black;
+border-bottom:10px;
+}
+.cardtitle
+{text-align: center;}
+
+.card {
+
+  border-radius: 5px;
+ 
+  transition: transform 1s;
+  }
+  
+  .card:hover {
+    transform: scale(1.1);
+  }
+.lead{
+font-family: Literata, serif;font-weight:40px ;}
+
+p {font-family: Literata, serif;font-weight:40px ;}
+
+h1.display-4
+{text-align: left;}
